@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head> <title>  flame official  website!  </title> 
+<head> <a target="_blank" href="https://www.youtube.com/channel/UC7fimIuiqsxwhJ32RPMB6VA/channels">Youtube channel 
 
-<li> <a target="_blank" href="https://www.youtube.com/channel/UC7fimIuiqsxwhJ32RPMB6VA/channels">Youtube channel 
-</li>
 
 
 </head>
@@ -13,6 +11,7 @@
 <img src="https://i.ibb.co/k3K7F0C/photo-2021-10-13-08-32-43.jpg" height="300" width="310"> 
 <p>This is a picture of one of the frames in my intro!</p>   <br>  
 
+</body>
 <style> p { font-family: sans-serif } h2 { font-family: sans-serif} h2  { background-color: grey} body {background-color: royalblue;} a {background-color: grey;} a {color:black;} </style>
 
-</body> </html>
+</html>
