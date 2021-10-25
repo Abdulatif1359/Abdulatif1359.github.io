@@ -2,9 +2,11 @@
 <html>
 <head> <a target="_blank" href="https://www.youtube.com/channel/UC7fimIuiqsxwhJ32RPMB6VA/channels">Youtube channel 
 
-<style> p { font-family: sans-serif } h2 { font-family: sans-serif} h2  { background-color: grey} body {background-color: royalblue;} a {background-color: grey;} a {color:black;} </style>
-
 </head>
+
+<style> p { font-family: sans-serif } h2 { font-family: sans-serif} h2  { background-color: grey} body {background-color: royalblue;} a {background-color: grey;} a {color:black;} </style>
+  
+ 
 <body> <h2> Welcome to the official website of <b> flame YT! </b></h2>
 <p> <b> Welcome </b> , this is my website,  <b> 
 </b> </p> <p> i will show you my <b> plans! </b> </p>
