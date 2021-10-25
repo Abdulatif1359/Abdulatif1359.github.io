@@ -2,7 +2,7 @@
 <html>
 <head> <a target="_blank" href="https://www.youtube.com/channel/UC7fimIuiqsxwhJ32RPMB6VA/channels">Youtube channel 
 
-
+<style> p { font-family: sans-serif } h2 { font-family: sans-serif} h2  { background-color: grey} body {background-color: royalblue;} a {background-color: grey;} a {color:black;} </style>
 
 </head>
 <body> <h2> Welcome to the official website of <b> flame YT! </b></h2>
@@ -12,6 +12,6 @@
 <p>This is a picture of one of the frames in my intro!</p>   <br>  
 
 </body>
-<style> p { font-family: sans-serif } h2 { font-family: sans-serif} h2  { background-color: grey} body {background-color: royalblue;} a {background-color: grey;} a {color:black;} </style>
+
 
 </html>
