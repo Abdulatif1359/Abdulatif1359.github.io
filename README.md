@@ -17,10 +17,8 @@
 <p>this is my website, <br>
 <b> As you can see</b>, at the top of the screen there are links to certain things. </p>
 <style> p { font-family: sans-serif }
-h3   {font-family: sans-serif}
 h3   {background-color: grey} 
 h1   {background-color: grey} 
-h1   {font-family: sans-serif}
 body {background-color: royalblue;} 
 a    {background-color: grey;}
 a    {color: black;} 
