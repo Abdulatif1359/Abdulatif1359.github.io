@@ -14,7 +14,6 @@
 
 </body>
 
+<style> p { font-family: sans-serif } h2 { font-family: sans-serif} h2  { background-color: grey} body {background-color: royalblue;} a {background-color: grey;} a {color:black;} </style>
 
 </html>
-
-<style> p { font-family: sans-serif } h2 { font-family: sans-serif} h2  { background-color: grey} body {background-color: royalblue;} a {background-color: grey;} a {color:black;} </style>
